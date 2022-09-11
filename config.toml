@@ -1,4 +1,4 @@
-baseURL = "http://demo.btwoa.com"
+baseURL = "https://demo.btwoa.com"
 languageCode = "zh-CN"
 title = "btwoa"
 theme = "hello"

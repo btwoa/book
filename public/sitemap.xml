@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://demo.btwoa.com/</loc>
+    <loc>https://demo.btwoa.com/</loc>
+    <lastmod>2022-09-11T10:41:13+08:00</lastmod>
   </url><url>
-    <loc>http://demo.btwoa.com/categories/</loc>
+    <loc>https://demo.btwoa.com/posts/demo/</loc>
+    <lastmod>2022-09-11T10:41:13+08:00</lastmod>
   </url><url>
-    <loc>http://demo.btwoa.com/tags/</loc>
+    <loc>https://demo.btwoa.com/posts/</loc>
+    <lastmod>2022-09-11T10:41:13+08:00</lastmod>
+  </url><url>
+    <loc>https://demo.btwoa.com/categories/</loc>
+  </url><url>
+    <loc>https://demo.btwoa.com/tags/</loc>
   </url>
 </urlset>
