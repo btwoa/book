@@ -12,12 +12,12 @@ draft: false
 
 #### 未配置CDN
 
-![](https://img.btwoa.com/202209111501082.png)
+![](https://ovo.btwoa.com/img/webp/202209111501082.webp)
 
 #### Cloudflare CDN 免费方案
 
-![](https://img.btwoa.com/202209111502715.png)
+![](https://ovo.btwoa.com/img/webp/202209111502715.webp)
 
 #### Cloudflare for SaaS自选节点
 
-![](https://img.btwoa.com/202209111522962.png)
+![](https://ovo.btwoa.com/img/webp/202209111522962.webp)
