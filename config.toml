@@ -1,4 +1,40 @@
-baseURL = "https://demo.btwoa.com"
+baseURL = "https://book.btwoa.com"
 languageCode = "zh-CN"
-title = "btwoa"
-theme = "hello"
+title = "Book"
+theme = "book"
+
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  style = "github"
+
+[params]
+  BookTheme = 'light'
+
+  BookToC = true
+
+  # BookMenuBundle = '/menu'
+
+  BookSection = 'docs'
+
+  BookDateFormat = 'January 2, 2022'
+
+  BookLogo = 'https://ovo.btwoa.com/favicon/favicon.png'
+
+  BookSearch = true
+
+  BookPortableLinks = true
+
+  BookServiceWorker = true
+
+  BookTranslatedOnly = false

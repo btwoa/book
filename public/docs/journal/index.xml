@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日志 on Book</title>
+    <link>https://demo.btwoa.com/docs/Journal/</link>
+    <description>Recent content in 日志 on Book</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://demo.btwoa.com/docs/Journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>网站访问速度对照</title>
+      <link>https://demo.btwoa.com/docs/Journal/access-speed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.btwoa.com/docs/Journal/access-speed/</guid>
+      <description> 网站访问速度对照 # 未配置CDN # Cloudflare CDN 免费方案 # Cloudflare for SaaS自选节点 # </description>
+    </item>
+    
+  </channel>
+</rss>
