@@ -2,12 +2,10 @@
 title: "金瓶梅"
 bookCollapseSection: false
 bookComments: false
-weight: 62
+weight: 71
 ---
 
 # 金瓶梅
-
-## The Golden Lotus
 
 ### 兰陵笑笑生
 

@@ -2,7 +2,7 @@
 title: "著作"
 bookCollapseSection: true
 bookComments: false
-weight: 61
+weight: 1
 ---
 
 ## 收录各类著作

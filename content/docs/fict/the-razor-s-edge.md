@@ -2,14 +2,11 @@
 title: "刀锋"
 bookCollapseSection: false
 bookComments: false
-weight: 92
+weight: 72
 ---
 
 # 刀锋
 
-## The Razor's Edge
-
-###  W. Somerset Maugham
 
 # 译者序
 

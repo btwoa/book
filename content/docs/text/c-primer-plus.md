@@ -2,7 +2,7 @@
 title: "C Primer Plus"
 bookCollapseSection: false
 bookComments: false
-weight: 1
+weight: 202
 ---
 
 # C Primer Plus
