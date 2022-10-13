@@ -8,7 +8,7 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "{{ "/favicon.svg" | relURL }}",
+      "src": "{{ "/https://ovo.btwoa.com/favicon/book/favicon.png" | relURL }}",
       "sizes": "512x512"
     }
   ]

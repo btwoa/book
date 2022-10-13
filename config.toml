@@ -29,7 +29,7 @@ enableGitInfo = true
 
   BookDateFormat = 'January 2, 2022'
 
-  BookLogo = 'https://ovo.btwoa.com/favicon/favicon.png'
+  BookLogo = 'https://ovo.btwoa.com/favicon/book/favicon.png'
 
   BookSearch = true
 

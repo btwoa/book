@@ -1,10 +1,10 @@
 ---
-title: "小说"
+title: "著作"
 bookCollapseSection: true
 bookComments: false
 weight: 61
 ---
 
-## 收录各类小说
+## 收录各类著作
 
 #### 如有侵权，请及时联系本人，以便后续删除
