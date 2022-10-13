@@ -2,7 +2,7 @@
 title: "黄帝四经"
 bookCollapseSection: false
 bookComments: false
-weight: 5
+weight: 2
 ---
 
 # 黄帝四经

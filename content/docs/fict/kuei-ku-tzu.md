@@ -2,7 +2,7 @@
 title: "鬼谷子"
 bookCollapseSection: false
 bookComments: false
-weight: 3
+weight: 4
 ---
 
 # 鬼谷子

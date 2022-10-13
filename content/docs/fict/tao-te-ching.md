@@ -2,7 +2,7 @@
 title: "道德经"
 bookCollapseSection: false
 bookComments: false
-weight: 4
+weight: 7
 ---
 
 # 道德经
