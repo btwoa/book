@@ -2,7 +2,7 @@ baseURL = "https://book.btwoa.com"
 languageCode = "zh-CN"
 title = "Book"
 theme = "book"
-defaultContentLanguage = "zh"
+defaultContentLanguage = "en"
 
 disablePathToLower = true
 enableGitInfo = true
