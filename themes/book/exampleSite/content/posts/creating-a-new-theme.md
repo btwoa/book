@@ -1055,7 +1055,7 @@ $ vi themes/zafta/layouts/index.html
   <h1>pages</h1>
   {{ range .Data.Pages }}
     {{ if or (eq .Type "page") (eq .Type "about") }}
-      <h2><a href="{{ .Permalink }}">{{ .Type }} - {{ .Title }} - {{ .RelPermalink }}</a></h2>
+      <h2><a href="{{ .Permalink }}">{{ .Type }} | {{ .Title }} | {{ .RelPermalink }}</a></h2>
     {{ end }}
   {{ end }}
 
